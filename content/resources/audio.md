@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f1d1a37e-7c4b-5e53-ea9d-6246e8016f6f
 resourcetype: Image
 title: audio.jpeg
 uid: f9f8693b-04c7-d295-bd91-2f44e835388e
