@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about the texts, course objectives,
+  evaluation criteria, grading criteria, exams and assignments and attendance policy
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
