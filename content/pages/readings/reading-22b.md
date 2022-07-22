@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: f1d1a37e-7c4b-5e53-ea9d-6246e8016f6f
 title: Reading 22B
 uid: 7b75ccea-9d60-11ba-0168-1f80f6863635

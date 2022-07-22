@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: f1d1a37e-7c4b-5e53-ea9d-6246e8016f6f
 title: Reading 26B (11)
 uid: e47e7702-a057-7679-704c-54d3a2113318

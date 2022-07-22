@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: f1d1a37e-7c4b-5e53-ea9d-6246e8016f6f
 title: Reading 24B (5-9)
 uid: fddf89c4-9172-e2a6-ec97-17dd47d52d2e
