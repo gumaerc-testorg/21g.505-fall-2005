@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-505-advanced-japanese-i-fall-2005/f9f8693b04c7d295bd912f44e835388e_audio.jpeg
+file: /ol-ocw-studio-app/courses/21g-505-advanced-japanese-i-fall-2005/f9f8693b04c7d295bd912f44e835388e_audio.jpeg
+file_size: 444
 file_type: image/jpeg
 image_metadata:
   caption: ''
