@@ -32,7 +32,7 @@ This course covers lessons 22 through 27 of _Japanese: The Spoken Language_. The
 
 As there is **no fact** (lecture) class in this course, all the class is conducted in Japanese.
 
-Although more class time will be spent on speaking rather than reading and writing. This course also emphasizes developing reading and writing skills. Approximately 150 new kanji will be introduced and kanji quizzes will be given frequently. When reading is assigned, you must be familiarize yourself with the contents of the materials; and in class, you will be asked questions on the contents the materials. You are encouraged to use online dictionaries such as [Popjisyo](http://www.popjisyo.com/WebHint/Portal_e.aspx), and [Rikai](http://www.rikai.com/perl/HomePage.pl?Language=Ja), when reading online reading materials.
+Although more class time will be spent on speaking rather than reading and writing. This course also emphasizes developing reading and writing skills. Approximately 150 new kanji will be introduced and kanji quizzes will be given frequently. When reading is assigned, you must be familiarize yourself with the contents of the materials; and in class, you will be asked questions on the contents the materials. You are encouraged to use online dictionaries such as {{% resource_link "cdcfe4a4-c8e9-4d77-9dee-f067783a7067" "Popjisyo" %}}, and {{% resource_link "e8f03718-768a-4bee-a440-a7d850c809ae" "Rikai" %}}, when reading online reading materials.
 
 Evaluation
 ----------
